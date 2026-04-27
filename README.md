@@ -122,10 +122,10 @@ Real-world data is always messy. This tool was built to simulate a **corporate d
 
 **Ishika Verma** — Data Analyst  
 🔗 [LinkedIn](https://www.linkedin.com/in/ishika-verma-4b60bb3aa)  
-💻 [GitHub](https://github.com)
+💻 [GitHub](https://github.com/ishikaverma-da)
 
 ---
 
 ## 🏷️ Tags
 
-`Python` `Data Analysis` `GUI` `Tkinter` `Pandas` `Matplotlib` `Data Cleaning` `Desktop App` `OpenToWork`
+`Python` `Data Analysis` `GUI` `Tkinter` `Pandas` `Matplotlib` `Data Cleaning` `Desktop App` `OpenToWork` 'AI'
