@@ -88,7 +88,10 @@ pyinstaller --onefile --windowed --name "DataAnalysisTool" data_analysis_tool.py
 Find your `.exe` in the `dist/` folder — share it with anyone!
 
 ---
+## 🎥 Demo Video
+[▶ Watch Demo on LinkedIn](https://www.linkedin.com/posts/ishika-verma-4b60bb3aa_dataanalyst-ai-aiproject-activity-7453464976503144448-ti9n?utm_source=share&utm_medium=member_android&rcm=ACoAAGQJ6AoBZGdx4vou53ZFMKj9p5v_NXbWNi4)
 
+---
 ## 📸 Screenshots
 
 ### Tool Overview
