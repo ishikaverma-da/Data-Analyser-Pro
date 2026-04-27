@@ -92,22 +92,22 @@ Find your `.exe` in the `dist/` folder — share it with anyone!
 ## 📸 Screenshots
 
 ### Tool Overview
-![Tool Overview](image/tool-overview.png)
+![Tool Overview](Image/tool-overview.png)
 
 ### Data Preview
-![Data Preview](image/data-preview.png)
+![Data Preview](Image/data-preview.png)
 
 ### Cleaning Summary
-![Cleaning Summary](image/cleaning-summery.png)
+![Cleaning Summary](Image/cleaning-summary.png)
 
 ### Report Builder
-![Report Builder](image/report-builder.png)
+![Report Builder](Image/report-builder.png)
 
 ### Pivot Table
-![Pivot Table](image/pivot-table.png)
+![Pivot Table](Image/pivot-table.png)
 
 ### Chart View
-![Chart View](image/chart-view.png)
+![Chart View](Image/chart-view.png)
 
 
 ---
